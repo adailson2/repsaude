@@ -1,0 +1,16 @@
+# Arquivos e pastas gerados pelo Node.js
+/node_modules
+/dist
+
+# Arquivos de compilação TypeScript
+*.js
+*.js.map
+
+# Arquivo de ambiente local
+.env
+
+# Arquivos e pastas gerados por IDEs
+.vscode/
+.idea/
+
+# Outros arquivos e pastas específicos do seu ambiente ou ferramentas podem ser adicionados aqui.
